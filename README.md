@@ -2,8 +2,7 @@
 
 ### 🚀 About Me
 
-🎓 Advanced Vocational Training in **Web Development**
-🧠 Strong foundation in programming and modern development technologies
+🎓 Advanced Vocational Training in **Web Development**. Strong foundation in programming and modern development technologies
 
 💻 I enjoy coding, solving problems, and turning ideas into functional applications. I focus on writing clean, practical solutions while continuing to grow as a developer.
 
