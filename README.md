@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Juan Castell
 
-<!--
-**juancasteell/juancasteell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+🎓 Advanced Vocational Training in **Web Development**
+🧠 Strong foundation in programming and modern development technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy coding, solving problems, and turning ideas into functional applications. I focus on writing clean, practical solutions while continuing to grow as a developer.
+
+👤 Outside of coding, I enjoy going to the **gym** and doing all kinds of **sports**.
+
+
+[![Email](https://img.shields.io/badge/-Mail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:juancastellcarmona@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castell-carmona-98b4b1390/)
