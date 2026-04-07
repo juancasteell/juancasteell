@@ -9,5 +9,5 @@
 👤 Outside of coding, I enjoy going to the **gym** and doing all kinds of **sports**.
 
 
-[![Email](https://img.shields.io/badge/-Mail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:juancastellcarmona@gmail.com)
+[![Email](https://img.shields.io/badge/-Mail-red?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:juancastell.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-castell-carmona-98b4b1390/)
